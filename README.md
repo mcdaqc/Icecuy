@@ -1,5 +1,8 @@
 # nfts
 
+![logo](https://github.com/user-attachments/assets/eac84f7a-6d3f-4978-a234-d94256f040be)
+
+
 A new Flutter project.
 
 ## Getting Started
